@@ -1,6 +1,6 @@
 Company| Focus | Materials | Max Build Size (in) | Delivery Time | Shipping | Website
 --- | --- | --- | --- | --- | --- | ---
-Shapeways | Hobbyists, Designer | 12 Types | 28" x 15" x 23" | 10-21 Days | International, Included | http://shapeways.com
+Shapeways | Hobbyists, Designer | 40 Types | 28" x 15" x 23" | 6-21 Days | International, Not included | http://shapeways.com
 iMaterialise | Artists, Designer | 13 Types | 24" x 20" x 24" | 5-15 Days | International, Included on orders>$99 | http://i.materialise.com
 Redeye | Industry, Engineers, Inventors | 20 Types | 36" x 24" x 36" | 3-5 Days | International | http://redeyeondemand.com
 Sculpteo | Hobbyists, Designers| 35 Types | 27" x 25" x 22" | 1-3 Days | International, Not included | http://sculpteo.com
